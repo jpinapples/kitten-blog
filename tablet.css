@@ -1,0 +1,29 @@
+@media (min-width: 720px){
+    #footer-container {
+        flex-direction: row;
+    }
+
+    #fotter-container > section {
+        margin-right: 32px;
+    }
+    
+    body > main > article > footer {
+        flex-direction: row;
+        
+    }
+    img {
+        margin-right: 32px;
+    }
+
+    body > main {
+        width: 70%;
+    }
+
+
+
+
+
+
+
+
+}
